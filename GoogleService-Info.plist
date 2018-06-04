@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1051981494637-20n2c3dojjenvt9r6ajkgrmvgi2vq6u9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1051981494637-20n2c3dojjenvt9r6ajkgrmvgi2vq6u9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5aI-AH7IaawUg8_M1PraBUL2oeETVEZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1051981494637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>veeru.StarterProject</string>
+	<key>PROJECT_ID</key>
+	<string>smokingdata-b0e6f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smokingdata-b0e6f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1051981494637:ios:c42acd8de60d4afc</string>
+	<key>DATABASE_URL</key>
+	<string>https://smokingdata-b0e6f.firebaseio.com</string>
+</dict>
+</plist>
